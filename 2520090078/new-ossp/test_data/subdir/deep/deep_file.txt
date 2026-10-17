@@ -1,0 +1,4 @@
+Deeply nested file test.
+Level 3 hierarchy.
+TargetKeyword: DeepAlpha
+Verified recursive traversal depth.
