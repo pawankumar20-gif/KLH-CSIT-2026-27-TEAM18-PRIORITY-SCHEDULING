@@ -1,0 +1,7 @@
+Hello World!
+Welcome to Parallel File Search Using Threads.
+This file tests multithreading search and pattern matching.
+Engineered with C++17 and Qt 6.
+Antigravity high-performance desktop search.
+TargetKeyword: AlphaBetaGamma
+End of file1.
