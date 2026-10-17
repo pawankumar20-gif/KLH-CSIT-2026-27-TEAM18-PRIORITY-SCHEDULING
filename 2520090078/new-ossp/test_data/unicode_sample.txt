@@ -1,7 +1,0 @@
-# UTF-8 and International Text Test
-French: Bonjour le monde, café et thé!
-German: Grüße aus München, Übergrößen.
-Japanese: こんにちは世界！並列ファイル検索エンジン
-Emoji: 🚀 🔍 ⚡ 💻
-TargetKeyword: UnicodeAlpha
-Symbols: [regex-test] (special-chars) {123-456}

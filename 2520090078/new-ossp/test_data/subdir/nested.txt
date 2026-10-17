@@ -1,4 +1,0 @@
-This is a nested text file located inside the subdir directory.
-It verifies recursive directory traversal.
-TargetKeyword: NestedAlpha
-End of nested file.
