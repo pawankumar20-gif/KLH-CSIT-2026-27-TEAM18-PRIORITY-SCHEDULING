@@ -1,0 +1,6 @@
+2026-10-16 10:00:00 [INFO] System boot completed.
+2026-10-16 10:01:15 [WARN] Disk space threshold at 85%.
+2026-10-16 10:02:30 [ERROR] Connection timeout to database 192.168.1.100.
+2026-10-16 10:03:00 [FATAL] Critical service shutdown required.
+2026-10-16 10:04:12 [INFO] Service restarted successfully.
+TargetKeyword: ErrorReport123
