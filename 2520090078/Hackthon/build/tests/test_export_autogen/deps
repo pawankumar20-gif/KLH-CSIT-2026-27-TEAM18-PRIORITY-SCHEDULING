@@ -1,0 +1,4 @@
+test_export_autogen/timestamp: \
+	C:/Users/Lenovo/OneDrive/Desktop/new-ossp/tests/CMakeLists.txt \
+	C:/Users/Lenovo/OneDrive/Desktop/new-ossp/tests/test_export.cpp \
+	C:/Program\ Files/CMake/bin/cmake.exe

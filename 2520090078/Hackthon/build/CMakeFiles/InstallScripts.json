@@ -1,0 +1,8 @@
+{
+	"InstallScripts" : 
+	[
+		"C:/Users/Lenovo/OneDrive/Desktop/new-ossp/build/cmake_install.cmake",
+		"C:/Users/Lenovo/OneDrive/Desktop/new-ossp/build/tests/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

@@ -1,0 +1,97 @@
+Start testing: Oct 16 23:54 India Standard Time
+----------------------------------------------------------
+1/4 Testing: ThreadPoolTest
+1/4 Test: ThreadPoolTest
+Command: "C:/Users/Lenovo/OneDrive/Desktop/new-ossp/build/tests/test_thread_pool.exe"
+Directory: C:/Users/Lenovo/OneDrive/Desktop/new-ossp/build/tests
+"ThreadPoolTest" start time: Oct 16 23:54 India Standard Time
+Output:
+----------------------------------------------------------
+=== Running ThreadPool Unit Tests ===
+[RUNNING] testBasicTaskExecution...
+[PASSED] testBasicTaskExecution
+[RUNNING] testHighConcurrencyTasks...
+[PASSED] testHighConcurrencyTasks
+[RUNNING] testThreadPoolShutdownAndResize...
+[PASSED] testThreadPoolShutdownAndResize
+=== All ThreadPool Tests Passed! ===
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"ThreadPoolTest" end time: Oct 16 23:54 India Standard Time
+"ThreadPoolTest" time elapsed: 00:00:00
+----------------------------------------------------------
+
+2/4 Testing: SearchEngineTest
+2/4 Test: SearchEngineTest
+Command: "C:/Users/Lenovo/OneDrive/Desktop/new-ossp/build/tests/test_search_engine.exe"
+Directory: C:/Users/Lenovo/OneDrive/Desktop/new-ossp/build/tests
+"SearchEngineTest" start time: Oct 16 23:54 India Standard Time
+Output:
+----------------------------------------------------------
+=== Running SearchEngine Unit Tests ===
+[RUNNING] testFilenameSearch...
+[PASSED] testFilenameSearch (found 1 match)
+[RUNNING] testTextPatternSearch...
+[PASSED] testTextPatternSearch
+[RUNNING] testCaseSensitivity...
+[PASSED] testCaseSensitivity
+[RUNNING] testRecursiveVsNonRecursive...
+[PASSED] testRecursiveVsNonRecursive
+[RUNNING] testRegexPatternMatching...
+[PASSED] testRegexPatternMatching
+[RUNNING] testInvalidDirectoryAndEmptySearch...
+[PASSED] testInvalidDirectoryAndEmptySearch
+[RUNNING] testBinaryFileHandling...
+[PASSED] testBinaryFileHandling
+=== All SearchEngine Tests Passed! ===
+<end of output>
+Test time =   0.18 sec
+----------------------------------------------------------
+Test Passed.
+"SearchEngineTest" end time: Oct 16 23:54 India Standard Time
+"SearchEngineTest" time elapsed: 00:00:00
+----------------------------------------------------------
+
+3/4 Testing: CancellationTest
+3/4 Test: CancellationTest
+Command: "C:/Users/Lenovo/OneDrive/Desktop/new-ossp/build/tests/test_cancellation.exe"
+Directory: C:/Users/Lenovo/OneDrive/Desktop/new-ossp/build/tests
+"CancellationTest" start time: Oct 16 23:54 India Standard Time
+Output:
+----------------------------------------------------------
+=== Running Cancellation Unit Tests ===
+[RUNNING] testSearchCancellation...
+[PASSED] testSearchCancellation
+=== All Cancellation Tests Passed! ===
+<end of output>
+Test time =   0.27 sec
+----------------------------------------------------------
+Test Passed.
+"CancellationTest" end time: Oct 16 23:54 India Standard Time
+"CancellationTest" time elapsed: 00:00:00
+----------------------------------------------------------
+
+4/4 Testing: ExportTest
+4/4 Test: ExportTest
+Command: "C:/Users/Lenovo/OneDrive/Desktop/new-ossp/build/tests/test_export.exe"
+Directory: C:/Users/Lenovo/OneDrive/Desktop/new-ossp/build/tests
+"ExportTest" start time: Oct 16 23:54 India Standard Time
+Output:
+----------------------------------------------------------
+=== Running CSV Export Unit Tests ===
+[RUNNING] testCsvEscaping...
+[PASSED] testCsvEscaping
+[RUNNING] testCsvExportToFile...
+[PASSED] testCsvExportToFile
+=== All CSV Export Tests Passed! ===
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"ExportTest" end time: Oct 16 23:54 India Standard Time
+"ExportTest" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Oct 16 23:54 India Standard Time
