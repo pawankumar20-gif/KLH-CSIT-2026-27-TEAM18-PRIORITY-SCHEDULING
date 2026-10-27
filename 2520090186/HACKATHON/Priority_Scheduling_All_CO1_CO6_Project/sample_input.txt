@@ -1,0 +1,44 @@
+Example Priority Scheduling input:
+
+4
+
+P1
+Arrival Time: 2
+Burst Time: 5
+Priority: 2
+
+P2
+Arrival Time: 3
+Burst Time: 6
+Priority: 1
+
+P3
+Arrival Time: 4
+Burst Time: 7
+Priority: 3
+
+P4
+Arrival Time: 5
+Burst Time: 8
+Priority: 2
+
+Expected non-preemptive execution order:
+P1 -> P2 -> P4 -> P3
+
+Expected CT:
+P1 = 7
+P2 = 13
+P4 = 21
+P3 = 28
+
+Expected TAT:
+P1 = 5
+P2 = 10
+P4 = 16
+P3 = 24
+
+Expected WT:
+P1 = 0
+P2 = 4
+P4 = 8
+P3 = 17
